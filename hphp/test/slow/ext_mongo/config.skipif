@@ -1,2 +1,2 @@
 <?php
-if (!extension_loaded('mongo')) echo 'skip';
+if (!class_exists('MongoClient') echo 'skip';

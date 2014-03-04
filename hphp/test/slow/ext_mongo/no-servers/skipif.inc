@@ -1,5 +1,5 @@
 <?php
-if (!extension_loaded("mongo")) {
+if (!class_exists('MongoClient')) {
     die("skip The Mongo extension isn't loaded");
 }
 
