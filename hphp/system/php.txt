@@ -160,6 +160,25 @@ hphp/system/php/code_model/PHPToCodeModel.ns.php
 hphp/system/php/code_model/CodeModelFactory.ns.php
 hphp/system/php/code_model/CodeModelToPHP.ns.php
 
+hphp/system/php/mongo/src/functions.php
+hphp/system/php/mongo/src/Mongofill/Protocol.php
+hphp/system/php/mongo/src/Mongofill/Bson.php
+hphp/system/php/mongo/src/Mongofill/Util.php
+hphp/system/php/mongo/src/MongoInt64.php
+hphp/system/php/mongo/src/MongoBinData.php
+hphp/system/php/mongo/src/MongoClient.php
+hphp/system/php/mongo/src/MongoId.php
+hphp/system/php/mongo/src/MongoLog.php
+hphp/system/php/mongo/src/MongoInt32.php
+hphp/system/php/mongo/src/MongoDB.php
+hphp/system/php/mongo/src/MongoCode.php
+hphp/system/php/mongo/src/MongoTimestamp.php
+hphp/system/php/mongo/src/MongoDate.php
+hphp/system/php/mongo/src/MongoRegex.php
+hphp/system/php/mongo/src/MongoException.php
+hphp/system/php/mongo/src/MongoCollection.php
+hphp/system/php/mongo/src/MongoCursor.php
+
 # If you have no inheritance relationship, go here in alphabetical order
 hphp/system/php/XhprofFrame.php
 hphp/system/php/array_filter.hhas
